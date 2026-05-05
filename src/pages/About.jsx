@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import img1 from "../assets/warehouse-storage.jpg"
 
 const About = () => {
   const values = [
@@ -82,7 +83,7 @@ const About = () => {
               </div>
             </div>
             <div className="about-story-image">
-              <img src="/src/assets/warehouse-storage.jpg" alt="NLS Warehouse" />
+              <img src={img1} alt="NLS Warehouse" />
             </div>
           </div>
         </div>
