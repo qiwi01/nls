@@ -1,0 +1,32 @@
+[
+  {
+    "city": "New York",
+    "zip": "10001",
+    "address": "123 Logistics Ave, New York, NY 10001",
+    "phone": "(555) 123-4567"
+  },
+  {
+    "city": "Los Angeles",
+    "zip": "90001",
+    "address": "456 Neon Blvd, Los Angeles, CA 90001",
+    "phone": "(555) 234-5678"
+  },
+  {
+    "city": "Chicago",
+    "zip": "60601",
+    "address": "789 Service St, Chicago, IL 60601",
+    "phone": "(555) 345-6789"
+  },
+  {
+    "city": "Miami",
+    "zip": "33101",
+    "address": "101 Express Way, Miami, FL 33101",
+    "phone": "(555) 456-7890"
+  },
+  {
+    "city": "Seattle",
+    "zip": "98101",
+    "address": "202 Delivery Dr, Seattle, WA 98101",
+    "phone": "(555) 567-8901"
+  }
+]
